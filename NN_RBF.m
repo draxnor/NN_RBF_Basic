@@ -1,3 +1,11 @@
+%% RBF Neural Network 
+% Comments in Polish
+% Author: Pawe³ Mêdyk
+
+% Sieæ neuronowa o radialnej funkcji bazowej
+% Imiê i nazwisko autora: Pawe³ Mêdyk
+
+
 fct=@(x) 0.8*sin(x/4)+0.4*sin(pi*x/4)+0.1*cos(pi*x) % funkcja aproksymowana
 %fct=@(x) 0.2*(x-4).^2; % funkcja aproksymowana
 %dane pomiarowe
